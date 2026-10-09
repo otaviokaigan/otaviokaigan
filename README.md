@@ -23,11 +23,4 @@ My goal is to evolve toward a **DevOps** path by bridging software scripting wit
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviokaigan&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviokaigan&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+[![Otávio's GitHub Stats](https://github-stats-extended.vercel.app/api?username=otaviokaigan)](https://github.com/stats-organization/github-stats-extended)
