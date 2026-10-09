@@ -23,6 +23,5 @@ My goal is to evolve toward a **DevOps** path by bridging software scripting wit
 
 ### 📊 GitHub Stats
 
-![Otávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otaviokaigan&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviokaigan&layout=compact&theme=tokyonight&hide_border=true)
+![Otávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otaviokaigan&show_icons=true&theme=tokyonight&hide_border=true)
