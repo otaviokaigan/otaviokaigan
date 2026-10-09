@@ -15,12 +15,6 @@ My goal is to evolve toward a **DevOps** path by bridging software scripting wit
 
 ---
 
-### 🚀 Featured Project
-
-- **[TrashCanBot](https://github.com/otaviokaigan/TrashCanBot)** — A modular Discord bot built in Ruby using the **Command-Service Pattern** to manage and automate Minecraft servers hosted on GitHub Codespaces via Crafty Controller API.
-
----
-
 ### 📊 GitHub Stats
 
 [![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=otaviokaigan&rank_icon=github&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=otaviokaigana&rank_icon=github&include_all_commits=true&theme=monokai)
