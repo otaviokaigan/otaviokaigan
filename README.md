@@ -10,7 +10,7 @@ My goal is to evolve toward a **DevOps** path by bridging software scripting wit
 
 - **Operating System:** Linux, Shell Scripting, Unix CLI
 - **Automation & Scripting:** Ruby, GitHub CLI (`gh`), cURL, REST APIs
-- **Core Languages:** Ruby, Java, SQL, Python
+- **Core Languages:** Java, Kotlin, Ruby, SQL, Python
 - **Databases & Tools:** MySQL, Firebird, Git, Insomnia
 
 ---
