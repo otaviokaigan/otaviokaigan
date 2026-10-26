@@ -16,5 +16,5 @@ My goal is to bridge system administration with software automation. I don't lim
 
 ### 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=otaviokaigan&rank_icon=github&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=otaviokaigana&rank_icon=github&include_all_commits=true&theme=monokai)
+[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=otaviokaigan&rank_icon=github&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=otaviokaigana&rank_icon=github&include_all_commits=true&theme=dark)
 [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=otaviokaigan&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=otaviokaigan&theme=dark)
