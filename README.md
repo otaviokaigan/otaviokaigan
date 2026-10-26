@@ -2,16 +2,15 @@
 
 I'm an Information Systems student and autonomous learner focused on **Linux Systems**, **Automation**, **Networking**, and **Infrastructure**.
 
-My goal is to evolve toward a **DevOps** path by bridging software scripting with system administration. I build personal automation scripts, Discord tools, and CLI integrations, primarily using **Ruby** and **Linux** utilities, while expanding my knowledge in containerization, networks, and server management.
+My goal is to bridge system administration with software automation. I don't limit myself to a single programming language and I'm always open to learning whatever tool gets the job done. Most of my current personal projects are built with **Ruby**, but I also work with **Shell Scripting**, **Python**, and **Java/Kotlin** as needed, while expanding my hands-on practice in **Docker** and Linux environments.
 
 ---
 
 ### ⚙️ Core Stack & Focus
 
-- **Operating System:** Linux, Shell Scripting, Unix CLI
-- **Automation & Scripting:** Ruby, GitHub CLI (`gh`), cURL, REST APIs
-- **Core Languages:** Java, Kotlin, Ruby, SQL, Python
-- **Databases & Tools:** MySQL, Firebird, Git, Insomnia
+- **Infra & DevOps:** Linux (Unix CLI), Shell Scripting (Bash), Docker, Git
+- **Languages & Scripting:** Ruby, Python, Java, Kotlin, SQL
+- **Tools & APIs:** REST APIs, GitHub CLI (`gh`), cURL, Insomnia, MySQL, Firebird
 
 ---
 
